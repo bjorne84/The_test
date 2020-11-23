@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gittest", "gittest\gittest.csproj", "{26DCEE2D-B891-4415-A488-3A7FA6A493E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gittest2", "gittest2\gittest2.csproj", "{342C24F0-8DE7-45E9-BB39-9969CD8F6B91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26DCEE2D-B891-4415-A488-3A7FA6A493E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26DCEE2D-B891-4415-A488-3A7FA6A493E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26DCEE2D-B891-4415-A488-3A7FA6A493E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26DCEE2D-B891-4415-A488-3A7FA6A493E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{342C24F0-8DE7-45E9-BB39-9969CD8F6B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342C24F0-8DE7-45E9-BB39-9969CD8F6B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342C24F0-8DE7-45E9-BB39-9969CD8F6B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342C24F0-8DE7-45E9-BB39-9969CD8F6B91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F45700DF-A693-4B6C-B43C-B587A42277C3}
+	EndGlobalSection
+EndGlobal
